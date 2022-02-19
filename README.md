@@ -11,4 +11,5 @@ Simple CLI to generate Express apps
 <code>npx express-cli-generator</code>
 
 ## Usage
+
 Simply run the command and it will ask a few questions to generate a new Express app.
