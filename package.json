@@ -1,5 +1,5 @@
 {
-  "name": "express-cli-genrator",
+  "name": "express-cli-generator",
   "version": "1.1.1",
   "description": "Simple CLI to generate express app",
   "bin": "index.js",
